@@ -16,6 +16,6 @@
 
 It used a custom designed PCB with an Raspberry Pi Pico as the MCU. At this point in around 7th grade I didn't really know how electricty worked so I didn't know resistance was a thing so I kind of just didn't put resistors for the LEDs but they were fine as the MCU can't output more than 20 millamps of current anyway so yea. 
 
-Here is the circuit diagram:
+Here is the block diagram:
 
 <img src="/assets/GIB_Block_Diagram.jpg" alt="GIB Block Diagram" width="1000"/>

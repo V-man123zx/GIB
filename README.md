@@ -12,9 +12,7 @@
 
 ### GIB 2.0 was a smaller and more compact versions of GIB 1.1. 
 
-<img src="/assets/GIB_2.0_TOP.jpg" alt="GIB 2.0 top view" width="200"/>
-<img src="/assets/GIB_2.0_ISO.jpg" alt="GIB 2.0 angled view" width="250"/>
-<img src="/assets/GIB_2.0_uncovered.jpg" alt="GIB 2.0 inside view" width="200"/>
+<img src="/assets/GIB_2.0_TOP.jpg" alt="GIB 2.0 top view" width="200"/><img src="/assets/GIB_2.0_ISO.jpg" alt="GIB 2.0 angled view" width="250"/><img src="/assets/GIB_2.0_uncovered.jpg" alt="GIB 2.0 inside view" width="200"/>
 
 
 

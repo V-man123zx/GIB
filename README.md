@@ -6,9 +6,9 @@
 
 ### GIB 1.1 was just a four button version of V1.0 with a black lid as well its pictured below
 
-<img src="/assets/GIB_1.1_TOP.jpg" alt="GIB 1.1 top view" width="180"/>
-<img src="/assets/GIB_1.1_ISO.jpg" alt="GIB 1.1 angled view" width="330"/>
-<img src="/assets/GIB_1.1_uncovered.jpg" alt="GIB 1.1 inside view" width="180"/>
+<img src="/assets/GIB_1.1_TOP.jpg" alt="GIB 1.1 top view" width="160"/>
+<img src="/assets/GIB_1.1_ISO.jpg" alt="GIB 1.1 angled view" width="300"/>
+<img src="/assets/GIB_1.1_uncovered.jpg" alt="GIB 1.1 inside view" width="160"/>
 
 ### GIB 2.0 was a smaller and more compact versions of GIB 1.1. 
 

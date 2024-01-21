@@ -21,10 +21,7 @@ random.seed(2021)
 while True:
     x = random.randrange(3, 7)
     sleep(x)
-    red.on()
-    blue.on()
-    yellow.on()
-    green.on()
+    led.on()
     sleep(.1)
     while True:
         if rbutton.value():
